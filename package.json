@@ -22,7 +22,7 @@
     "dayjs": "^1.10.8",
     "echarts": "~5.1.2",
     "nprogress": "^0.2.0",
-    "qrcode.vue": "^1.7.0",
+    "qrcode.vue": "^3.6.0",
     "tdesign-icons-vue": "~0.0.8",
     "tdesign-vue": "~0.41.5",
     "tvision-color": "~1.4.0",
